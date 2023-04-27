@@ -31,7 +31,7 @@ const blogTheme = getThemeConfig({
 export default defineConfig({
   extends: blogTheme,
   lang: "zh-cn",
-  outDir: "blog",
+  // outDir: "blog",
   title: "@Ruiyoung/blog",
   description: "博客",
   vite: {
