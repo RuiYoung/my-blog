@@ -7,7 +7,7 @@ const blogTheme = getThemeConfig({
   // 友链
   friend: [
     {
-      nickname: "resume",
+      nickname: "resume1",
       des: "你的指尖用于改变世界的力量",
       avatar:
         "https://static.ruiyoung.online/images/avator.jpg",
